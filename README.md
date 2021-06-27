@@ -8,14 +8,15 @@ To run this code, please follow below steps:
 
 A. To execute from Eclipse IDE, follow below steps:
 
-Upload input file in creditcard folder.
-Click on Run Configuration to run Client.java file.
-Enter arguments for eg. sample.csv test.csv
-Click Apply
-Click OK.
+--> Upload input file in creditcard folder.
+--> Click on Run Configuration to run Client.java file.
+--> Enter arguments for eg. sample.csv test.csv
+--> Click Apply
+--> Click OK.
+
 B. To execute using JAR file, please follow below steps:
 
-Download the JAR file.
-Save the input file in the same path as of JAR file.
-Navigate to the JAR file path from command prompt.
-Execute below command: java -jar creditcard-0.0.1-SNAPSHOT-jar-with-dependencies.jar sample.csv test.csv
+--> Download the JAR file.
+--> Save the input file in the same path as of JAR file.
+--> Navigate to the JAR file path from command prompt.
+--> Execute below command: java -jar creditcard-0.0.1-SNAPSHOT-jar-with-dependencies.jar sample.csv test.csv
