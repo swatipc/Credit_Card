@@ -1,6 +1,6 @@
 # Credit_Card
 
-This is a Java Application for Credit Card Processing. It reads records from any time of file such as CSV, XML and JSON. Further it checks the validates the card number. Based on the appropriate Credit Card Type, it creates object of Credit Card type class suh as Master Card, Visa, American Express and Discover. New type of files and CreditCards can also be added in this application. This application creates an output file containing Card Number, Card Type and Error.
+This is a Java Application for Credit Card Processing. It reads records from any time of file such as CSV, XML and JSON. Further it checks the validates the card number. Based on the appropriate Credit Card type, it creates an object of Credit Card type class such as Master Card, Visa, American Express and Discover. New type of files and CreditCards can also be added in this application. This application creates an output file containing Card Number, Card Type and Error.
 
 For this application, I have used Strategy, Chain of Responsibility and Factory pattern.
 
